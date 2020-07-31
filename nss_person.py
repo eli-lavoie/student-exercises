@@ -1,0 +1,2 @@
+class NSS_Person():
+    
